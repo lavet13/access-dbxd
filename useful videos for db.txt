@@ -42,6 +42,7 @@ https://www.cyberforum.ru/ms-access/thread1539881.html
 https://stackoverflow.com/questions/26492872/how-to-pass-an-array-to-a-function-in-vba
 https://stackoverflow.com/questions/31564846/return-array-from-function-in-vba
 https://stackoverflow.com/questions/5185595/error-in-excel-vb-function-constant-expression-required
+https://stackoverflow.com/questions/52765232/sub-vs-function-without-a-return-value
 
 https://learn.microsoft.com/ru-ru/office/vba/api/access.docmd.openform
 https://learn.microsoft.com/en-us/dotnet/visual-basic/language-reference/statements/for-each-next-statement
