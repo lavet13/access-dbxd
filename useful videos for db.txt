@@ -50,3 +50,4 @@ https://stackoverflow.com/questions/52765232/sub-vs-function-without-a-return-va
 https://learn.microsoft.com/ru-ru/office/vba/api/access.docmd.openform
 https://learn.microsoft.com/en-us/dotnet/visual-basic/language-reference/statements/for-each-next-statement
 https://learn.microsoft.com/en-us/dotnet/visual-basic/programming-guide/language-features/arrays/
+https://learn.microsoft.com/ru-ru/office/vba/api/access.docmd.close
