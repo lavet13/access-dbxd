@@ -1,3 +1,5 @@
+https://habr.com/ru/post/193756/ - краткое руководство по проектированию реляционных баз данных
+
 https://www.youtube.com/watch?v=BVDiiWc53o8&ab_channel=%D0%A3%D1%80%D0%BE%D0%BA%D0%B8%D0%BF%D0%BEMicrosoftAccess
 https://www.youtube.com/watch?v=9sw0bjGgCvg&ab_channel=nefmont
 https://www.youtube.com/watch?v=rODO1amP78o&ab_channel=%D0%A3%D1%80%D0%BE%D0%BA%D0%B8%D0%BF%D0%BEMicrosoftAccess
