@@ -41,6 +41,7 @@ https://www.cyberforum.ru/ms-access/thread521628.html
 https://www.cyberforum.ru/ms-access/thread1539881.html
 https://www.cyberforum.ru/ms-access/thread1629435.html
 https://www.cyberforum.ru/ms-access/thread699319.html
+https://www.cyberforum.ru/ms-access/thread1452620.html
 
 
 https://stackoverflow.com/questions/26492872/how-to-pass-an-array-to-a-function-in-vba
