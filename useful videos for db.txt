@@ -48,9 +48,11 @@ https://stackoverflow.com/questions/26492872/how-to-pass-an-array-to-a-function-
 https://stackoverflow.com/questions/31564846/return-array-from-function-in-vba
 https://stackoverflow.com/questions/5185595/error-in-excel-vb-function-constant-expression-required
 https://stackoverflow.com/questions/52765232/sub-vs-function-without-a-return-value
+https://stackoverflow.com/questions/3018510/how-to-clear-the-entire-array
 
 
 https://learn.microsoft.com/ru-ru/office/vba/api/access.docmd.openform
 https://learn.microsoft.com/en-us/dotnet/visual-basic/language-reference/statements/for-each-next-statement
 https://learn.microsoft.com/en-us/dotnet/visual-basic/programming-guide/language-features/arrays/
 https://learn.microsoft.com/ru-ru/office/vba/api/access.docmd.close
+https://learn.microsoft.com/en-us/office/vba/language/concepts/getting-started/understanding-parameter-arrays
